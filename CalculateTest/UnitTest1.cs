@@ -8,6 +8,7 @@ namespace CalculateTest
 		[TestMethod]
 		public void TestMethod1()
 		{
+			salam aleikym
 		}
 	}
 }
